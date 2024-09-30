@@ -1,5 +1,6 @@
 # Guessing.md
-```mermaid flowchart TD 
-  Start([Start]) --> End([End]) 
-``` 
+```mermaid
+flowchart TD
+Start([Start]) --> End([End])
+```
 
